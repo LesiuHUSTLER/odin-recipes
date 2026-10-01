@@ -1,0 +1,58 @@
+.title {
+    font-size: 50px;
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.foto {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.description {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+.ingredients {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+.info {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+}
+.itemy {
+    font-size: 18px;
+    color: black;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 120px;
+}
+.steps {
+    font-size: 18px;
+    color: black;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 120px;
+    font-weight: bold;
+}
+.head {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
